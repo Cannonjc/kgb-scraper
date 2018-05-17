@@ -2,16 +2,12 @@ class Review < ApplicationRecord
   has_many :review_employees, dependent: :destroy
   has_many :employees, through: :review_employees
 
-  # SEE the README for how the review score is calculated
+  # class method to calculate/recalculate scores of the reviews
   def self.calculate_scores
-    all.each do |r|
-      if r.title == "Testing"
-        debugger
-      end
-      r.calculate_score
-    end
+    all.each {|r| r.calculate_score}
   end
 
+  # SEE the README for how the review score is calculated
   def calculate_score
     temp_score = 0
     temp_score += rating*50

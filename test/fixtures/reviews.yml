@@ -6,66 +6,67 @@ one_review:
   title: Just good.
   user: user3.5
   message: They want your business, and will do anything to keep your business. They treat they’re customers with respect and make sure your visit is memorable. I had Charles who made four hours go by quick with friendly small talk and excellent customer service
-
+  score: 1
 two_review:
   date: May 12, 2018
   rating: 4.5
   title: Pretty good!
   user: user4.5
   message: Adrian Cortes goes above and beyond to make sure his customers get what’s best for them and exactly what they want! Even after the sale is complete, he follows up and checks in with how you are liking your vehicle. I will never buy a car with anyone else again!
-
+  score: 2
 three_review:
   date: May 10, 2018
   rating: 5
   title: Perfect!!
   user: user5.0
   message: Friendly service. Willing to work with you, much more than in Longview. We would definitely go there first when shopping for another vehicle. Sales staff very knowledgeable.
-
+  score: 3
 four_review:
   date: May 9, 2018
   rating: 5
   title: Another Perfect!!
   user: user5.0.1
   message: Adrian Cortez Is One Of The Best Dealers. He Is Very Helpful & Hands On, I Would Recommend Him To Anyone Who Goes To This Dealership.
-
+  score: 4
 five_review:
   date: May 8, 2018
   rating: 4.5
   title: Almost 100%
   user: user4.5.1
   message: The staff at mckaig Chevrolet are hands down the best. They treat you like family, and do above and beyond what most dealerships offer. The drive from Gilmer was worth it for my 2018 Chevy Silverado 4x4 z71.
-
+  score: 5
 six_review:
   date: May 14, 2018
   rating: 3
   title: Average
   user: user3
   message: They want your business, and will do anything to keep your business. They treat they’re customers with respect and make sure your visit is memorable. I had Charles who made four hours go by quick with friendly small talk and excellent customer service
-
+  score: 6
 seven_review:
   date: May 12, 2018
   rating: 2.5
   title: Below Average
   user: user2.5
   message: Adrian Cortes goes above and beyond to make sure his customers get what’s best for them and exactly what they want! Even after the sale is complete, he follows up and checks in with how you are liking your vehicle. I will never buy a car with anyone else again!
-
+  score: 7
 eight_review:
   date: May 10, 2018
   rating: 4.8
   title: Almost !!
   user: user4.8
   message: Friendly service. Willing to work with you, much more than in Longview. We would definitely go there first when shopping for another vehicle. Sales staff very knowledgeable.
-
+  score: 8
 nine_review:
   date: May 9, 2018
   rating: 4.7
   title: Not top 3!!
   user: user4.7
   message: Adrian Cortez Is One Of The Best Dealers. He Is Very Helpful & Hands On, I Would Recommend Him To Anyone Who Goes To This Dealership.
-
+  score: 9
 ten_review:
   date: May 8, 2018
   rating: 1
   title: One star
   user: user1.0
   message: The staff at mckaig Chevrolet are hands down the best. They treat you like family, and do above and beyond what most dealerships offer. The drive from Gilmer was worth it for my 2018 Chevy Silverado 4x4 z71.
+  score: 10
