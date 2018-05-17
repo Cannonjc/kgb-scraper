@@ -13,7 +13,7 @@ Then to get all the info scraped and loaded into the database, run:
 rails db:scrape_and_load
 - In the console you'll see the top offenders listed! See below to see how their severity was determined
 
-If you need to reset the database, run:\n
+If you need to reset the database, run:
 rails db:reset db:migrate
 (if you have a GUI connected to the database, it might not allow you to reset the db)
 
