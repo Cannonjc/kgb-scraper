@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  review: one_review
+  employee: one_employee
+
+two:
+  review: one_review
+  employee: two_employee
+
+three:
+  review: two_review
+  employee: three_employee
+
+four:
+  review: two_review
+  employee: four_employee
+
+five:
+  review: three_review
+  employee: five_employee
+
+six:
+  review: four_review
+  employee: one_employee
+
+seven:
+  review: five_review
+  employee: one_employee
+
+eight:
+  review: five_review
+  employee: two_employee
+
+nine:
+  review: five_review
+  employee: three_employee
+
+ten:
+  review: five_review
+  employee: four_employee
+
+eleven:
+  review: five_review
+  employee: five_employee
+
+twelve:
+  review: six_review
+  employee: two_employee

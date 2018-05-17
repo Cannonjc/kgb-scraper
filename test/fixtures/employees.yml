@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one_employee:
+  name: First Employee
+  rating: 1.5
+
+two_employee:
+  name: Second Employee
+  rating: 4.5
+
+three_employee:
+  name: Third Employee
+  rating: 5.0
+
+four_employee:
+  name: Fourth Employee
+  rating: 3
+
+five_employee:
+  name: Fifth Employee
+  rating: 4
