@@ -17,6 +17,9 @@ If you need to reset the database, run:<br>
 rails db:reset db:migrate<br>
 (if you have a GUI connected to the database, it might not allow you to reset the db)
 
+To run the tests, run:<br>
+rails test
+
 After being scraped, the reviews are then given a score. The higher the score, the more positive the review was!<br>
 The score is determined as follows:<br>
 The rating is multiplied by 50,<br>
